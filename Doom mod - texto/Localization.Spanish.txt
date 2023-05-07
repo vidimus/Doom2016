@@ -1,0 +1,140 @@
+﻿.,Spanish
+;=========================  Cyber Demon  =========================
+MonsterCyberDemon.Info,Una demoníaca mole de destrucción cibernética. \n\n <b>Furia</b>: \n Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterCyberDemon.Name,Ciberdemonio
+MonsterActivationCyberDemon1.Ability,<b>Furia</b>: \n Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterActivationCyberDemon1.Minion,{action} Mueve hasta 5 casillas para ponerse al alcance de tantos marines como sea posible. {action} El Ciberdemonio lanza misiles entre 2 marines que estén separados entre sí dos casillas. \n Si no es posible, dispara al marine que esté más cerca. \n La explosión causa daño en un una cuadrícula de 3x3 casillas.
+MonsterActivationCyberDemon2.Ability,<b>Furia</b>: \n Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterActivationCyberDemon2.Minion,{action} El Ciberdemonio carga hasta 5 casillas en dirección al marine más cercano. \n {action} El Ciberdemonio balancea su brazo biónico hacia ti. Ataca con 1 Dado Negro y 1 Dado Rojo. \n Este ataque provoca que el defensor retroceda 3 casillas \n Si el Ciberdemonio no puede alcanzar a un marine, dispara al marine más cercano. \n
+MonsterActivationCyberDemon3.Ability,<b>Furia</b>: \n Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterActivationCyberDemon3.Minion,{action} Mueve hasta 5 casillas para ponerse al alcance del marine más cercano. {action} [2 Energías Argent] Al final de su turno, el Ciberdemonio realiza un ataque con alcance 8 y 2 dados negros y 4 rojos. \n {action} El Ciberdemonio dispara misiles contra el marine más cercano. \n La explosión causa daño en un una cuadrícula de 3x3 casillas.
+MonsterActivationCyberDemon3.Ability,[1 Energía Argent] <b>Andanada de misiles</b>: El Ciberdemonio realiza 3 ataques, cada uno con alcance 4 y 2 dados rojos. \n <b>Furia</b>: N Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterActivationCyberDemon3.Minion,{action} Mueve hasta 5 casillas para ponerse al alcance del marine más cercano. {action} [1 Energía Argent] El Ciberdemonio realiza 3 ataques con alcance 4 y 2 dados rojos. \n {action} El Ciberdemonio dispara misiles contra el marine más cercano. \n La explosión causa daño en un una cuadrícula de 3x3 casillas.
+MonsterActivationCyberDemon4.Ability,[1 Energía Argent] <b>Andanada de misiles</b>: El Ciberdemonio realiza 3 ataques, cada uno con alcance 4 y 2 dados rojos. \n <b>Furia</b>: N Al atacar, si el Ciberdemonio ha sufrido 10 o más puntos de daño, puede volver a lanzar hasta 3 dados en los que haya obtenido los resultados más bajos.
+MonsterActivationCyberDemon4.Minion,{action} Mueve hasta 5 casillas para ponerse al alcance del marine más cercano. {action} [1 Energía Argent] El Ciberdemonio realiza 3 ataques con alcance 4 y 2 dados rojos. \n {action} El Ciberdemonio dispara misiles contra el marine más cercano. \n La explosión causa daño en un una cuadrícula de 3x3 casillas.
+;=========================  Imp  =========================
+MonsterImp.Info,Un ágil demonio al que no te gustaría encontrarte en un callejón oscuro. \n\n <b>Ataque y huida</b>: \n Después de atacar, obtiene 2 puntos de movimiento.
+MonsterImp.Name,Imp
+MonsterActivationImp1.Ability,<b>Ataque y huida</b>: \n Después de atacar, obtiene 2 puntos de movimiento.
+MonsterActivationImp1.Minion,[1 Energía Argent] Este ataque añade +2 de alcance y 1 dado rojo. \n {action} El Imp se mueve hasta 4 casillas hacia el marine más alejado. \n {action} El Imp ataca al marine más alejado. \n El Imp se mueve 2 casillas alejándose del marine más cercano.
+MonsterActivationImp2.Ability,<b>Ataque y huida</b>: \n Después de atacar, obtiene 2 puntos de movimiento.
+MonsterActivationImp2.Minion,{action} Se mueve hasta 4 casillas hacia el marine más débil. \n {action} El Imp ataca al marine más débil. \n El Imp se mueve 2 casillas alejándose del marine más cercano.
+MonsterActivationImp3.Ability,<b>Ataque y huida</b>: \n Después de atacar, obtiene 2 puntos de movimiento.
+MonsterActivationImp3.Minion,{action} Se mueve hasta 4 casillas hacia el marine más fuerte. \n {action} El Imp ataca al marine más fuerte. \n El Imp se mueve 2 casillas alejándose del marine más cercano.
+;=========================  Possessed  =========================
+MonsterPossessed.Info,Antes era uno de tus camaradas. \n\n <b>Furia</b>: \n Cuando ataca, el Soldado poseído puede volver a tirar 1 dado.
+MonsterPossessed.Name,Soldado poseído
+MonsterActivationPossessed1.Ability,<b>Furia</b>: \n Cuando ataca, el Soldado poseído puede volver a tirar 1 dado.
+MonsterActivationPossessed1.Minion,{action} Mueve hasta 4 casillas hasta colocarse al alcance del marine más cercano. \n {action} El Soldado poseído ataca al marine más cercano.
+MonsterActivationPossessed2.Ability,<b>Furia</b>: \n Cuando ataca, el Soldado poseído puede volver a tirar 1 dado.
+MonsterActivationPossessed2.Minion,{action} Mueve hasta 4 casillas hasta colocarse al alcance del marine más alejado. \n {action} El Soldado poseído ataca al marine más alejado.
+MonsterActivationPossessed3.Ability,<b>Furia</b>: \n Cuando ataca, el Soldado poseído puede volver a tirar 1 dado.
+MonsterActivationPossessed3.Minion,{action} Mueve hasta 4 casillas hasta colocarse al alcance del marine más débil. \n {action} El Soldado poseído ataca al marine más débil.
+;=========================  Cacodemon  =========================
+MonsterCacoDemon.Info,Un orbe flotante y mortal. \n\n <b>Vuelo</b>: \n Mientras se mueve, el Cacodemonio ignora el terreno y las miniaturas. \n\n <b>Mordisco</b>: \n Antes de lanzar cualquier cantidad de dados para un ataque, si el Cacodemonio está adyacente al defensor, sustituye 2 dados rojos por 2 dados negros.
+MonsterCacoDemon.Name,Cacodemonio
+MonsterActivationCacodemon1.Ability,<b>Vuelo</b>: \n Mientras se mueve, el Cacodemonio ignora el terreno y las miniaturas. \n <b>Mordisco</b>: Antes de lanzar cualquier cantidad de dados para un ataque, si el Cacodemonio está adyacente al defensor, sustituye 2 dados rojos por 2 dados negros.
+MonsterActivationCacodemon1.Minion,{action} Mueve hasta 5 casillas para quedar adyacente a un marine. \n {action} El Cacodemonio ataca al marine más cercano.
+MonsterActivationCacodemon2.Ability,<b>Vuelo</b>: \n Mientras se mueve, el Cacodemonio ignora el terreno y las miniaturas. \n <b>Mordisco</b>: Antes de lanzar cualquier cantidad de dados para un ataque, si el Cacodemonio está adyacente al defensor, sustituye 2 dados rojos por 2 dados negros.
+MonsterActivationCacodemon2.Minion,{action} Mueve hasta 5 casillas hacia el marine más cercano. \n [1 Energía Argent] Después de que el Cacodemonio ataque, el defensor queda aturdido. \n {action} El Cacodemonio ataca al marine más cercano.
+MonsterActivationCacodemon3.Ability,<b>Vuelo</b>: \n Mientras se mueve, el Cacodemonio ignora el terreno y las miniaturas. \n <b>Mordisco</b>: Antes de lanzar cualquier cantidad de dados para un ataque, si el Cacodemonio está adyacente al defensor, sustituye 2 dados rojos por 2 dados negros.
+MonsterActivationCacodemon3.Minion,{action} Mueve hasta 5 casillas hasta tener al alcance al marine más débil. \n {action} El Cacodemonio ataca al marine más débil.
+;=========================  Pinky  =========================,
+MonsterPinky.Info,Un ariete de dos patas. \n\n <b>Acometida de toro</b>: \n Antes de lanzar cualquier cantidad de dados de ataque, si el Pinky está adyacente a un marine, añade 1 dado rojo al ataque. \n [1 Energía Argent] <b>Piel blindada</b>: \n Cuando se defiende, el Pinky gana 2 de armadura.
+MonsterPinky.Name,Pinky
+MonsterActivationPinky1.Ability,<b>Acometida de toro</b>: \n Antes de lanzar cualquier cantidad de dados de ataque, si el Pinky está adyacente a un marine, añade 1 dado rojo al ataque. \n [1 Energía Argent] <b>Piel blindada</b>: \n Cuando se defiende, el Pinky gana 2 de armadura.
+MonsterActivationPinky1.Minion,{action} Mueve hasta 5 casillas hasta quedar adyacente al marine más débil. \n {action} El Pinky ataca a un marine adyacente.
+MonsterActivationPinky2.Ability,<b>Acometida de toro</b>: \n Antes de lanzar cualquier cantidad de dados de ataque, si el Pinky está adyacente a un marine, añade 1 dado rojo al ataque. \n [1 Energía Argent] <b>Piel blindada</b>: \n Cuando se defiende, el Pinky gana 2 de armadura.
+MonsterActivationPinky2.Minion,{action} Mueve hasta 5 casillas hasta quedar adyacente al marine más alejado. \n {action} El Pinky ataca al marine alejado.
+MonsterActivationPinky3.Ability,<b>Acometida de toro</b>: \n Antes de lanzar cualquier cantidad de dados de ataque, si el Pinky está adyacente a un marine, añade 1 dado rojo al ataque. \n [1 Energía Argent] <b>Piel blindada</b>: \n Cuando se defiende, el Pinky gana 2 de armadura.
+MonsterActivationPinky3.Minion,{action} Mueve hasta 5 casillas hasta quedar adyacente al marine más fuerte. \n {action} El Pinky ataca al marine más fuerte.
+;=========================  Baron  =========================
+MonsterBaron_of_Hell.Info,Fuerza brutal y maldad encarnadas en esta furia del infierno. \n\n <b>Vengativo</b>: \n Después de que se realice un ataque contra el Barón, éste gana 2 puntos de movimiento. (Usa esto para colocarlo adyacente/tan cerca como sea posible de un marine). \n <b>Ensañamiento</b>: \n El Barón puede gastar 5 puntos de movimiento para realizar un ataque adicional.
+MonsterBaron_of_Hell.Name,Barón del infierno
+MonsterActivationBOH1.Ability,<b>Vengativo</b>: Después de que se realice un ataque contra el Barón, éste gana 2 puntos de movimiento. (Usa esto para colocarlo adyacente/tan cerca como sea posible de un marine). \n <b>Ensañamiento</b>: El Barón puede gastar 5 puntos de movimiento para realizar un ataque adicional.
+MonsterActivationBOH1.Minion,{action} Mueve hasta 5 casillas para quedar adyacente a un marine. \n {action} El Barón ataca a un marine adyacente. \n {action} Si el Barón tiene 5 puntos de movimiento disponibles, el Barón ataca a un marine adyacente.
+MonsterActivationBOH2.Ability,<b>Vengativo</b>: Después de que se realice un ataque contra el Barón, éste gana 2 puntos de movimiento. (Usa esto para colocarlo adyacente/tan cerca como sea posible de un marine). \n <b>Ensañamiento</b>: El Barón puede gastar 5 puntos de movimiento para realizar un ataque adicional.
+MonsterActivationBOH2.Minion,{action} [1 Energía Argent] El Barón efectúa un ataque a distancia de alcance 6 con 4 dados rojos. \n {action} Mueve hasta 5 casillas para quedar adyacente a un marine. \n {action} El Barón ataca a un marine adyacente. \n {action} Si el Barón tiene 5 puntos de movimiento disponibles, el Barón ataca a un marine adyacente.
+MonsterActivationBOH3.Ability,El Barón gana 3 puntos de movimiento en este turno. \n <b>Vengativo</b>: Después de que se realice un ataque contra el Barón, éste gana 2 puntos de movimiento. (Usa esto para colocarlo adyacente/tan cerca como sea posible de un marine). \n <b>Ensañamiento</b>: El Barón puede gastar 5 puntos de movimiento para realizar un ataque adicional.
+MonsterActivationBOH3.Minion,{action} Mueve hasta 5 casillas para quedar adyacente al marine más débil. \n {action} El Barón ataca a un marine adyacente. \n {action} Si el Barón tiene 5 puntos de movimiento disponibles, el Barón ataca a un marine adyacente.
+;=========================  Revenant  =========================
+MonsterRevenant.Info,Un muerto viviente equipado con misiles guiados. \n\n <b>Vuelo</b>: \n Cuando se mueve, el Revenant ignora el terreno y las miniaturas. \n <b>Asalto</b>: \n Durante su activación, el Revenant realiza 1 ataque adicional.
+MonsterRevenant.Name,Revenant
+MonsterActivationRevenant1.Ability,<b>Vuelo</b>: \n Cuando se mueve, el Revenant ignora el terreno y las miniaturas. \n Asalto: \n Durante su activación, el Revenant realiza 1 ataque adicional.
+MonsterActivationRevenant1.Minion,[1 Energía Argent] Antes de lanzar los dados, el marine defensor roba las 3 primeras cartas de su mazo y descarta las dos con los valores más altos de defensa. \n {action} Mueve hasta 5 casillas para quedar al alcance del marine más débil. \n {action} El Revenant ataca al marine más débil. \n {action} El Revenant ataca al marine más débil.
+MonsterActivationRevenant2.Ability,<b>Vuelo</b>: \n Cuando se mueve, el Revenant ignora el terreno y las miniaturas. \n Asalto: \n Durante su activación, el Revenant realiza 1 ataque adicional.
+MonsterActivationRevenant2.Minion,[1 Energía Argent] Antes de lanzar los dados, el marine defensor roba las 3 primeras cartas de su mazo y descarta las dos con los valores más altos de defensa. \n {action} Mueve hasta 5 casillas para quedar al alcance del marine más cercano. \n {action} El Revenant ataca al marine más cercano. \n {action} El Revenant ataca al marine más fuerte.
+MonsterActivationRevenant3.Ability,<b>Vuelo</b>: \n Cuando se mueve, el Revenant ignora el terreno y las miniaturas. \n Asalto: \n Durante su activación, el Revenant realiza 1 ataque adicional.
+MonsterActivationRevenant3.Minion,[1 Energía Argent] Antes de lanzar los dados, el marine defensor roba las 3 primeras cartas de su mazo y descarta las dos con los valores más altos de defensa. \n {action} Mueve hasta 5 casillas para quedar al alcance del marine más alejado. \n {action} El Revenant ataca al marine más alejado. \n {action} El Revenant ataca al marine más cercano.
+;=========================  Mancubus  =========================
+MonsterMancubus.Info,Un montón de carne muerta con brazos lanzamisiles. \n\n Cuando ataca, si el defensor no está adyacente, vuelve a lanzar cualquier cantidad de dados en blanco.
+MonsterMancubus.Name,Mancubus
+MonsterActivationMancubus1.Ability,<b>Artillería</b>: \n Cuando ataca, si el defensor no está adyacente, vuelve a lanzar cualquier cantidad de dados en blanco.
+MonsterActivationMancubus1.Minion,{action} Mueve hasta 4 casillas para quedar dentro del alcance del marine más débil. \n {action} El Mancubus ataca al marine más débil. \n\n Al final de su activación: \n Si hay más de 2 marines a 2 o menos casillas del Mancubus: \n [1 Energía Argent] Lanza 1 dado negro - Todos los marines a 2 o menos casillas sufre 1 de daño por cada daño del dado.
+MonsterActivationMancubus2.Ability,<b>Artillería</b>: \n Cuando ataca, si el defensor no está adyacente, vuelve a lanzar cualquier cantidad de dados en blanco.
+MonsterActivationMancubus2.Minion,{action} Mueve hasta 4 casillas para quedar dentro del alcance del marine más cercano. \n {action} El Mancubus ataca al marine más cercano. \n\n Al final de su activación: \n Si hay más de 2 marines a 2 o menos casillas del Mancubus: \n [1 Energía Argent] Lanza 1 dado negro - Todos los marines a 2 o menos casillas sufre 1 de daño por cada daño del dado.
+MonsterActivationMancubus3.Ability,<b>Artillería</b>: \n Cuando ataca, si el defensor no está adyacente, vuelve a lanzar cualquier cantidad de dados en blanco.
+MonsterActivationMancubus3.Minion,{action} Mueve hasta 4 casillas para quedar a 2 casillas o menos de tantos marines como sea posible. \n {action} El Mancubus ataca al marine más alejado. \n\n Al final de su activación: \n Si hay más de 2 marines a 2 o menos casillas del Mancubus: \n [1 Energía Argent] Lanza 1 dado negro - Todos los marines a 2 o menos casillas sufre 1 de daño por cada daño del dado.
+;=========================  Range  =========================
+MonsterActivationLongShot.Ability,<b>Largo alcance</b>: \n El demonio gana +3 de alcance para este ataque.
+MonsterActivationLongShot.Minion,{action} Mueve hasta estar al alcance máximo del marine más cercano. \n {action} Ataca al marine más cercano.
+MonsterActivationExplosiveShot.Ability,<b>Detonación explosiva</b>: \n El ataque del demonio tiene un área de efecto de 3x3 casillas.
+MonsterActivationExplosiveShot.Minion,{action} Mueve hasta estar al alcance de un grupo de marines. \n {action} Ataca al grupo de marines más cercano.
+MonsterActivationChargedShot.Ability,<b>Disparo potente</b>: \n Añade 1 dado rojo al ataque del demonio.
+MonsterActivationChargedShot.Minion,{action} Mueve hasta estar al alcance del marine más débil. \n {action} Ataca al marine más débil.
+;=========================  Melee  =========================
+MonsterActivationEnraged.Ability,Enfurecido: \n El demonio añade 1 dado rojo para este ataque.
+MonsterActivationEnraged.Minion,{action} Mueve hasta estar adyacente al marine más débil. \n {action} Ataca al marine adyacente.
+MonsterActivationCharge.Ability,<b>Carga</b>: \n El demonio gana 3 puntos de movimiento. \n (El Pinky puede usar además Acometida de toro. El Cacodemonio puede usar además Mordisco. \n El Barón puede usar además Ensañamiento.)
+MonsterActivationCharge.Minion,{action} Mueve hasta estar adyacente al marine más alejado. \n {action} Ataca al marine adyacente.
+
+
+;=========================  Class 1  =========================
+
+ClassMarine1.name,"Especialista en escopeta"
+Skill1Marine1.name,"+1 Armadura"
+Skill2Marine1.name,"+1 Vida"
+Skill3Marine1.name,"+1 Armadura"
+Skill4Marine1.name,"+1 Vida"
+Skill5Marine1.name,"+1 Armadura"
+Skill6Marine1.name,"+1 Vida"
+
+;=========================  Class 2  =========================
+ClassMarine2.name,"Especialista en fusil"
+Skill1Marine2.name,"+1 Armadura"
+Skill2Marine2.name,"+1 Vida"
+Skill3Marine2.name,"+1 Armadura"
+Skill4Marine2.name,"+1 Vida"
+Skill5Marine2.name,"+1 Armadura"
+Skill6Marine2.name,"+1 Vida"
+
+;=========================  Class 3  =========================
+ClassMarine3.name,"Especialista en apoyo"
+Skill1Marine3.name,"+1 Armadura"
+Skill2Marine3.name,"+1 Vida"
+Skill3Marine3.name,"+1 Armadura"
+Skill4Marine3.name,"+1 Vida"
+Skill5Marine3.name,"+1 Armadura"
+Skill6Marine3.name,"+1 Vida"
+
+;=========================  Class 4  =========================
+ClassMarine4.name,"Especialista en asalto pesado"
+Skill1Marine4.name,"+1 Armadura"
+Skill2Marine4.name,"+1 Vida"
+Skill3Marine4.name,"+1 Armadura"
+Skill4Marine4.name,"+1 Vida"
+Skill5Marine4.name,"+1 Armadura"
+Skill6Marine4.name,"+1 Vida"
+
+;=========================  Items  =========================
+ItemSuperShotgun.name,"Super escopeta"
+ItemCombatShotgun.name,"Escopeta de combate"
+ItemBFG9000.name,"BFG 9000"
+ItemBurstRifle.name,"Fusil de ráfagas"
+ItemChaingun.name,"Ametralladora gatling"
+ItemChainsaw.name,"Motosierra"
+ItemGaussCannon.name,"Cañón Gauss"
+ItemHeavyAssaultRifle.name,"Fusil de asalto pesado"
+ItemPlasmaRifle.name,"Plasma Rifle"
+ItemRocketLauncher.name,"Lanzamisiles"
+ItemStaticRifle.name,"Fusil de estática"
